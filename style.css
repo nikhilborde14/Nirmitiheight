@@ -1,0 +1,48 @@
+body{
+	text-align: center;
+	font-family: times new roman;
+	
+}
+html{
+	scroll-behavior: smooth;
+
+}
+.carousel-inner img{
+	background-size: cover;
+	height: 400px;
+	
+}
+
+.container{
+	text-align: center;
+	padding: ;
+}
+.container h1{
+	
+	padding: 20px;
+	text-decoration-line: underline;
+}
+.container p {
+	
+	text-align: left;
+
+}
+
+.container .p1 {
+	
+	text-align: center;
+
+	padding-top:20px;
+}
+
+.container img {
+	
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+#contact{
+	padding: 50px;
+}
+#contact h1{
+	text-decoration-line: underline;
+}
